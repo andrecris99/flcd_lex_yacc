@@ -1,0 +1,10 @@
+int prod_nrs():
+int length,i=0,p=1
+char c = 'e
+int v(1ength)
+for (i:=0,length,+i):
+v[i]:=(int)getInput()
+while i<length: {
+p=prod(v[i],p)
+i+ }
+return p

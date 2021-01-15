@@ -1,0 +1,8 @@
+real a_mean():
+int a,b
+int nr:= 0
+a := (int)getInput()
++nr
+b := (int)getInput()
++nr
+return (real)div(sum(a,b),nr)
